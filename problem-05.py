@@ -19,3 +19,6 @@ for i in range(0,3):
     for j in range(0,3):
         A[i][j] *= f
 print(A)
+
+# output: [[10, 20, 30], [400, 500, 600], [7000, 8000, 9000]] 
+# why ouput like this. can anyone please explain me?
